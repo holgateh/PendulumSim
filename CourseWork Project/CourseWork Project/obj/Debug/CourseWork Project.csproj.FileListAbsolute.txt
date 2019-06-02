@@ -1,0 +1,289 @@
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\Harrison\Documents\Visual Studio 2017\Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+D:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+W:\Computer Science\Visual Studio C# Projects\WPF Projects\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+G:\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+G:\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+G:\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+G:\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+G:\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+G:\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+G:\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+G:\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+G:\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+G:\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+G:\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+G:\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+G:\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+G:\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+G:\CourseWork Project\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+\\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\Harrison\Documents\Source\Repos\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+G:\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+G:\Computing\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\harri\Desktop\HHolgate-harrison-holgate-nea-1d0c792a2e30\HHolgate-harrison-holgate-nea-1d0c792a2e30\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\harri\Documents\Source\Repos\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csprojResolveAssemblyReference.cache

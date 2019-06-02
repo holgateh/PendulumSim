@@ -1,0 +1,132 @@
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.baml
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csproj.GenerateResource.Cache
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.baml
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csproj.GenerateResource.Cache
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Harrison\OneDrive\CourseWorkProject\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\GraphControl.baml
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\DoublePendulumSimulationControl.baml
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\SpringSImulationControl.baml
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\StartUpWindow.baml
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\ToolBarControl.baml
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\PendulumSimulationControl.baml
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csproj.GenerateResource.Cache
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\Harmonic Motion Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\Harrison\OneDrive\Harrison Holgate NEA\harrison-holgate-nea\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb

@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="CourseWork_Project.PenudulumSimulationControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CourseWork_Project" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="38*"/>
+            <ColumnDefinition Width="38*"/>
+            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="48*"/>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="42"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Canvas Name="SimulationCanvas"
+                Background="White"
+                VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="0"
+                Grid.Column="0" Grid.ColumnSpan="9" Margin="0,0,-0.5,1"
+                SizeChanged="SimulationCanvas_SizeChanged"
+                MouseMove="SimulationCanvas_OnMouseMove"
+                MouseDown="SimulationCanvas_OnMouseDown"
+                MouseUp="SimulationCanvas_OnMouseUp"
+                MouseLeave="SimulationCanvas_OnMouseLeave"/>
+        <ToggleButton x:Name="StartButton"
+                    Content="Start / Stop" Grid.Row="1" Grid.Column="0" Margin="2,9,2,3"
+                    Click="StartButton_Click"/>
+        <Label x:Name="GravitationalFieldStrengthLabel" Content="g: 9.81 N kg^-1" Margin="36,0,0.5,3" Grid.Row="2"  Grid.Column="5" Grid.ColumnSpan="3"/>
+        <Label x:Name="LengthLabel" Content="Length: 0 m" Margin="0,0,1.5,1" Grid.Row="2"  Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="DampingLabel" Content="Damping: 0" Margin="0.5,0,1.5,1" Grid.Row="2"  Grid.Column="4" Grid.ColumnSpan="2"/>
+        <TextBox Name="LengthTextBox" Grid.Column="3" Margin="3.125,14,2,10" Grid.Row="1" TextChanged="LengthTextBox_TextChanged" LostFocus="LengthTextBox_LostFocus"/>
+        <TextBox x:Name="DampingTextBox" Grid.Column="5" Margin="14.938,14,9.729,10" Grid.Row="1" TextChanged="DampingTextBox_TextChanged" LostFocus="DampingTextBox_LostFocus"/>
+        <TextBox x:Name="GravitationalFieldStrengthTextBox" Grid.Column="7" Margin="2.104,14,2.896,10" Grid.Row="1" TextChanged="GravitationalFieldStrengthTextBox_TextChanged" LostFocus="GravitationalFieldStrength_LostFocus"/>
+
+        <Slider x:Name="LengthSlider" Grid.Row="1" Grid.Column="2" ValueChanged="LengthSlider_ValueChanged"
+                Margin="0,10,0,2" Maximum="2" LargeChange="0.25" TickPlacement="Both" Minimum="0.1" Value="1" SmallChange="0.01"
+                />
+        <Slider x:Name="DampingSilder" Grid.Row="1" Grid.Column="4" ValueChanged="DampingSilder_OnValueChanged"
+                Margin="1,10,0,3" Maximum="2" LargeChange="0.05" TickPlacement="Both" SmallChange="0.01"
+        />
+        <Slider x:Name="GravitationalFieldStrengthSlider" Grid.Row="1" Grid.Column="6" ValueChanged="GravitationalFieldStrengthSilder_ValueChanged"
+            Margin="7,8,0,5" Maximum="50" LargeChange="0.05" TickPlacement="Both" SmallChange="0.5" Value="9.81"
+        />
+
+
+    </Grid>
+</UserControl>

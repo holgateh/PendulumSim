@@ -1,0 +1,44 @@
+﻿<Window x:Class="CourseWork_Project.StartUpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWork_Project"
+        mc:Ignorable="d"
+        Title="Harmonic Motion Simulator" Height="195" Width="397.667"  ResizeMode="NoResize"
+        Icon="Icons/MainIcon.PNG">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="180"/>
+            <ColumnDefinition Width="28*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="26*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="34.667"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="35.333"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Select Simulation:" HorizontalAlignment="Left" Margin="1,0,0,0" VerticalAlignment="Top" Width="169" Height="31" FontSize="16" Grid.Column="1"/>
+        <Button Name ="PendulumOption" Content="String Pendulum" Grid.Column="1"
+                HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1"
+                VerticalAlignment="Top" Width="160" Height="20"
+                Click="PendulumOption_Click"/>
+        <Button Name ="SpringPendulumOption" Content="Spring Pendulum" Grid.Column="1"
+                HorizontalAlignment="Left" Margin="10,5,0,0" Grid.Row="2" VerticalAlignment="Top"
+                Width="160" Height="20"
+                Click="SpringPendulumOption_Click"/>
+        <Button x:Name ="DoublePendulumOption" Content="Double Pendulum" Grid.Column="1"
+            HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="3" VerticalAlignment="Top"
+            Width="160" Height="20"
+            Click="DoublePendulumOption_OnClick"/>
+        <Button x:Name ="ExitOption" Content="Exit" Grid.Column="3"
+            HorizontalAlignment="Left" Margin="4,10,0,0" Grid.Row="3" VerticalAlignment="Top"
+            Width="79" Height="20"
+            Click="ExitOption_OnClick"/>
+
+    </Grid>
+</Window>

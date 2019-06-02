@@ -1,0 +1,73 @@
+﻿<UserControl x:Class="CourseWork_Project.DoublePendulumSimulationControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CourseWork_Project">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="41*"/>
+            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="39*"/>
+            <ColumnDefinition Width="46*"/>
+            <ColumnDefinition Width="47*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="39"/>
+            <RowDefinition Height="26"/>
+            <RowDefinition Height="32"/>
+            <RowDefinition Height="27"/>
+        </Grid.RowDefinitions>
+        <Canvas Name="SimulationCanvas"
+                Background="White"
+                VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="0"
+                Grid.Column="0" Grid.ColumnSpan="8"
+                SizeChanged="SimulationCanvas_SizeChanged"
+                MouseMove="SimulationCanvas_OnMouseMove"
+                MouseDown="SimulationCanvas_OnMouseDown"
+                MouseUp="SimulationCanvas_OnMouseUp"
+                MouseLeave="SimulationCanvas_OnMouseLeave" Margin="0,0,0,4"/>
+        <ToggleButton x:Name="StartButton"
+                    Content="Start / Stop" Grid.Column="0" Margin="2,5,2,3"
+                    Click="StartButton_Click" Grid.Row="1"/>
+
+        <TextBox Name="Length1TextBox" Grid.Column="3" Margin="3,11,4,10" Grid.Row="1" TextChanged="Length1TextBox_TextChanged" LostFocus="Length1TextBox_LostFocus" />
+        <TextBox x:Name="DampingTextBox" Grid.Column="5" Margin="5,11,3,10" Grid.Row="1" TextChanged="DampingTextBox_TextChanged" LostFocus="DampingTextBox_LostFocus"/>
+        <TextBox x:Name="GravitationalFieldStrengthTextBox" Grid.Column="7" Margin="5,11,5,10" Grid.Row="1" TextChanged="GravitationalFieldStrengthTextBox_TextChanged" LostFocus="GravitationalFieldStrengthTextBox_LostFocus" />
+        <TextBox x:Name="Length2TextBox" Grid.Column="3" Margin="4,5,3,9" Grid.Row="3" TextChanged="Length2TextBox_TextChanged" LostFocus="Length2TextBox_LostFocus"/>
+        <TextBox x:Name="Mass1TextBox" Grid.Column="5" Margin="1,5,5,9" Grid.Row="3" TextChanged="Mass1TextBox_TextChanged" LostFocus="Mass1TextBox_LostFocus"/>
+        <TextBox x:Name="Mass2TextBox" Grid.Column="7" Margin="5,5,10,9" Grid.Row="3" TextChanged="Mass2TextBox_TextChanged" LostFocus="Mass2TextBox_LostFocus"/>
+        <Label x:Name="GravitationalFieldStrengthLabel" Content="g: 9.81 N kg^-1" Grid.Row="2"  Grid.Column="6" Grid.ColumnSpan="2"/>
+        <Label x:Name="Length1Label" Content="Length 1: 0 m" Margin="0,0,2,0" Grid.Row="2"  Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="DampingLabel" Content="Damping: 0" Margin="0,0,2,0" Grid.Row="2"  Grid.Column="4" Grid.ColumnSpan="2"/>
+        <Label x:Name="Length2Label" Content="Length 2: 0 m" Margin="2,0,0,1" Grid.Row="4"  Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="Mass1Label" Content="Mass 1: 0 kg" Margin="0,0,0,1" Grid.Row="4"  Grid.Column="4" Grid.ColumnSpan="2"/>
+        <Label x:Name="Mass2Label" Content="Mass 2: 0 kg" Margin="6,0,5,1" Grid.Row="4"  Grid.Column="6" Grid.ColumnSpan="2"/>
+        <Slider x:Name="Length1Slider" Grid.Column="2" ValueChanged="Length1Slider_ValueChanged"
+                Margin="4,5,1,3" Maximum="2" LargeChange="0.25" TickPlacement="Both" Minimum="0.25" Value="1" SmallChange="0.01" Grid.Row="1"
+                />
+        <Slider x:Name="Length2Silder" Grid.Row="3" Grid.Column="2" ValueChanged="Length2Silder_OnValueChanged" Maximum="2" LargeChange="0.25" TickPlacement="Both" Minimum="0.25" Value="1" SmallChange="0.01" Margin="0,0,1,0"
+        />
+        <Slider x:Name="Mass1Silder" Grid.Row="3" Grid.Column="4" ValueChanged="Mass1Silder_OnValueChanged" Maximum="6" LargeChange="0.25" TickPlacement="Both" Minimum="0.1" Value="1" SmallChange="0.01"
+        />
+        <Slider x:Name="Mass2Silder" Grid.Row="3" Grid.Column="6" ValueChanged="Mass2Silder_OnValueChanged" Maximum="6" LargeChange="0.25" TickPlacement="Both" Minimum="0.1" Value="0.5" SmallChange="0.01"
+        />
+        <Slider x:Name="DampingSilder" Value="0" Grid.Column="4" ValueChanged="DampingSilder_OnValueChanged"
+                Margin="0,6,0,3" Minimum ="0" Maximum="2" LargeChange="0.05" TickPlacement="Both" SmallChange="0.01" Grid.Row="1"
+        />
+        <Slider x:Name="GravitationalFieldStrengthSlider" Grid.Column="6" ValueChanged="GravitationalFieldStrengthSilder_ValueChanged"
+            Margin="0,6,0,3" Maximum="50" LargeChange="0.05" TickPlacement="Both" SmallChange="0.5" Value="9.81" Grid.Row="1"
+        />
+        <CheckBox Name="TrailToggleCheckbox" Content="Trail" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Margin="10,6,0,0" Click="TrailToggleCheckbox_OnClick" Height="15" Width="41"/>
+
+
+
+
+    </Grid>
+</UserControl>

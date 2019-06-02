@@ -1,0 +1,47 @@
+﻿<Window x:Class="CourseWork_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mdi="clr-namespace:WPF.MDI;assembly=WPF.MDI"
+        xmlns:local="clr-namespace:CourseWork_Project"
+        Title="Harmonic Motion Simulator" Height="715" Width="1315"
+        Icon="Icons/MainIcon.PNG" ResizeMode="NoResize">
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="574*"/>
+        </Grid.RowDefinitions>
+        <local:ToolBarControl x:Name="ToolBar"
+                                     Height="Auto" Width="Auto" HorizontalAlignment="Stretch"
+                                     ZoomResetButtonClicked="ToolBar_ZoomResetButtonClicked"
+                                     PenToolToggleButtonClicked="ToolBar_PenToolToggleButtonClicked"
+                                     ClearPenToolToggleButtonClicked="ToolBar_ClearPenToolToggleButtonClicked"
+                                     LineToolToggleButtonClicked="ToolBar_LineToolToggleButtonClicked" 
+                                     VerticalAlignment="Top"
+                                     Grid.Row="1"/>
+        <DockPanel Grid.Row="2" Grid.RowSpan="2">
+            <mdi:MdiContainer x:Name="Container"/>
+        </DockPanel>
+        <Menu IsMainMenu="True" Grid.Row="0">
+            <MenuItem Header="_Reset Simulation"
+                      Click="RestoreMenuItem_Click"
+                      ToolTip="Reloads/Resets the Currently Selected Simulation."/>
+            <MenuItem Header="_Select Simulation" ToolTip="Select a Different Simulation.">
+                <MenuItem Name ="PendulumSimMenuItem"  Header="_Pendulum Simulation"
+                          Click="PendulumSimMenuItem_Click"/>
+                <Separator/>
+                <MenuItem Name ="SpringSimMenuItem" Header="_Spring Simulation"
+                          Click="SpringSimMenuItem_Click"/>
+                <Separator/>
+                <MenuItem Name ="DoublePendlumSimMenuItem"  Header="_Double Pendulum Simulation"
+                          Click="DoublePendlumSimMenuItem_OnClick"/>
+            </MenuItem>
+        </Menu>
+    </Grid>
+
+</Window>
