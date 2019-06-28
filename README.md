@@ -12,4 +12,11 @@ Images of the application can be seen below.
 
 The spring-mass system: 
 
+![alt text](https://i.imgur.com/CbNpdKZ.png)
+
+The string-mass sytem:
+
+![alt text](https://i.imgur.com/I1XUArK.png)
+
+The double string-mass system:
 ![alt text](https://i.imgur.com/YCeHUMs.png)
