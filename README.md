@@ -10,3 +10,5 @@ The Visual Studio project is included in the source.
 
 Images of the application can be seen below.
 
+The spring-mass system: 
+<img src = "https://i.imgur.com/YCeHUMs.png" /img>
